@@ -3,6 +3,11 @@
 
 Disclaimer: This course has not yet been tested. The course will be 3 hours a day, but the individual splits of time have not yet been figured out.
 
+## Teaching the Course
+Feel free to use the course as long as you provide acknowledgement.
+
+Additionally, feedback would be much appreciated. Send any feedback to this email: [placeholder]
+
 ## Overview
 Day 1 - Basic Python; Intro to Vectors
 
@@ -23,3 +28,4 @@ At the end of the notebooks are the "mini-projects"; these mini-projects are sma
 
 ## Homework
 For homework (after days 1 and 2) students will be given a Google Collab notebook that is partially filled out. Their task will be to fill in the code that is specified throughout the notebook's comments. Solutions will be provided the day after. Solutions are not available on this page, so if you are a teacher for this course email this email: [placeholder] for the solution notebooks.
+
