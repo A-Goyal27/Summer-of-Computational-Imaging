@@ -5,8 +5,11 @@ Disclaimer: This course has not yet been tested. The course will be 3 hours a da
 
 ## Overview
 Day 1 - Basic Python; Intro to Vectors
+
 Day 2 - Vectors Cont., Matrices, Color, Images; Intro to Convolutions
+
 Day 3 - Convolutions Cont., Noise, Denoising with Convolutions; Final Project
+
 
 There is also a daily 30 min homework expectation.
 
