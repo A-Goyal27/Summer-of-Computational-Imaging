@@ -21,8 +21,12 @@ There is also a daily 30 min homework expectation.
 ## Slides
 For each day, there are premade slides. These slides are wordheavy since they are meant to double-down as handouts for students. As such, instead of speaker notes for every slide, there will be a few notes on key points worth emphasizing. 
 
+Note: when sharing slides with students, make sure to have them make a copy of slides.
+
 ## Notebooks
 Along with the slideshow for the day, there is also a Python notebook file. These notebooks should be imported into Google Collabs and shared with students. The notebooks give the students a chance to practice the concepts learned from the slides and can also be used as notes for later.
+
+Note: similar to sharing slides, have each student make a copy of the Google Collab notebook for the day.
 
 At the end of the notebooks are the "mini-projects"; these mini-projects are small algorithms that students are asked to build completely by themselves. Coding is best learned when you are forced to figure things out for yourself, so use these mini-projects as a way for students to do that. When answering questions from students about the mini-projects, make sure to respond with guiding questions rather than absolute answers.
 
