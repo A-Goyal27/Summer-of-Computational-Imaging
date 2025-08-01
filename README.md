@@ -6,6 +6,8 @@ Disclaimer: This course has not yet been tested. The course will be 3 hours a da
 ## Teaching the Course
 Feel free to use the course as long as you provide acknowledgement.
 
+For each day there are some additional speaker notes. These contain certain parts that are intended to be highlighted or taught in a specific way. However, these are certainly not definite, and feel free to teach the content in whatever way you see fit.
+
 Additionally, feedback would be much appreciated. Send any feedback to this email: [placeholder]
 
 ## Overview
