@@ -24,7 +24,7 @@ For each day, there are premade slides. These slides are wordheavy since they ar
 Note: when sharing slides with students, make sure to have them make a copy of slides.
 
 ## Notebooks
-Along with the slideshow for the day, there is also a Python notebook file. These notebooks should be imported into Google Collabs and shared with students. The notebooks give the students a chance to practice the concepts learned from the slides and can also be used as notes for later.
+Along with the slideshow for the day, there is also a Python notebook file. These notebooks should be downloaded, then imported into Google Collabs and shared with students. The notebooks give the students a chance to practice the concepts learned from the slides and can also be used as notes for later.
 
 Note: similar to sharing slides, have each student make a copy of the Google Collab notebook for the day.
 
