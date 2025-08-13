@@ -1,3 +1,4 @@
-Download the Final Project document along with the jpg image. Share both of these with the student.
+Download the Final Project document and share it with the student.
+
 
 The final project document outlines the steps for creating a notebook, loading in images, and denoising them. Similar to the mini-projects, the goal is for the students to do as much as they can by themselves.
