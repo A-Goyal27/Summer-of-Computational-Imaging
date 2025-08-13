@@ -22,6 +22,7 @@ There is also a daily 30 min homework expectation.
 For each day, there are premade slides. These slides are wordheavy since they are meant to double-down as handouts for students. As such, instead of speaker notes for every slide, there will be a few notes on key points worth emphasizing. 
 
 Note: when sharing slides with students, make sure to have them make a copy of slides.
+
 Note: The day 1 slides are stored in this repo as two parts, they should be combined before teaching.
 
 ## Notebooks
