@@ -35,3 +35,5 @@ At the end of the notebooks are the "mini-projects"; these mini-projects are sma
 ## Homework
 For homework (after days 1 and 2) students will be given a Google Collab notebook that is partially filled out. Their task will be to fill in the code that is specified throughout the notebook's comments. Solutions will be provided the day after. Solutions are not available on this page, so if you are a teacher for this course email this email: [placeholder] for the solution notebooks.
 
+## Final Project
+For the students' final project, they will create a notebook, load in an image, and then denoise it. The steps for the final project are more clearly outlined in the Final Project notes under Day 3\Final Project. Similar to homework, the solution notebook is not available on this page and it can be received via email.
